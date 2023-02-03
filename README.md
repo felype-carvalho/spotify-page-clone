@@ -1,4 +1,4 @@
-# Spotify Homepage Clone Using Tailwind CSS <img align="center" alt="Felype-Tw" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+# Spotify Homepage Clone Using Tailwind CSS <img align="center" alt="Felype-Tw" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
  
 It was used in this project Tailwind CSS 3.2.4 and Node.js 19.4.0.
 
